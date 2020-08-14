@@ -7,6 +7,11 @@ import "fmt"
 // change 3
 
 //Added a new function
+func anotherFunction_8() {
+
+}
+
+//Added a new function
 func anotherFunction_4() {
 
 }
