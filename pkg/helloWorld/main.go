@@ -42,3 +42,8 @@ func anotherFunction_5() {
 func anotherFunction_6() {
 
 }
+
+//Added a new function
+func anotherFunction_7() {
+
+}
