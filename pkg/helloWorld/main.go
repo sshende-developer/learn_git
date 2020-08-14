@@ -22,3 +22,8 @@ func main() {
 func anotherFunction() {
 
 }
+
+//Added a new function
+func anotherFunction_2() {
+
+}
