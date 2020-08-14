@@ -6,6 +6,11 @@ import "fmt"
 // Change 2
 // change 3
 
+//Added a new function
+func anotherFunction_3() {
+
+}
+
 func main() {
 	fmt.Println("Feature2")
 	fmt.Println("Hello World")
