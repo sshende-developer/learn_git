@@ -2,11 +2,11 @@ package main
 
 import "fmt"
 
-//Some comment
-
 func main() {
+	fmt.Println("Feature2")
 	fmt.Println("Hello World")
-	fmt.Println("Master has some changes")
+	fmt.Println("Hello World again...")
+	fmt.Println("Hello World again...some more...")
 }
 
 //Added a new function
